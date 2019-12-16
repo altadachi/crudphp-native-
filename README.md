@@ -1,6 +1,7 @@
 # crudphp-native-PHP
 - APACHE2
 - mysql (PHPMYADMIN)
+- PHP 5.6
 
 Crud Native pada php
 
